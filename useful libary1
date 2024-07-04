@@ -1,0 +1,9 @@
+                                             ( IMAGE  COMPRESSION TECHNIQUE USING PHYTHON)
+Import PIL
+from PIL import Image
+from tkinter.fileloading import *
+fl=askopenfilename()
+image=Image.Open (Fl[0])
+img=Image.open(fl[0])
+img.save("name", Type, optimize=True, quality=10)
+image.open(name)
