@@ -30,8 +30,10 @@ print(integer_slider)
 
 
 # boolean_cheak=true   #@param{type:"boolean"}
-
 # boolean_dropdown=true #@param["false","true"] {type:"raw"}
 
 
 call the function to perform
+
+![python lib](https://github.com/Matanga707/NIELIT/assets/88035837/6d1256ba-c18e-40fc-8c3f-f0f5c6fee3dd)
+
